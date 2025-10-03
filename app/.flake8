@@ -1,0 +1,9 @@
+
+[flake8]
+ecludes = 
+    __pycache__,
+    migrations,
+    manage.py,
+    settings.py,
+    wsgi.py,
+    asgi.py

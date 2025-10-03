@@ -1,0 +1,1 @@
+This is the source code for the backend implementation of a web app that helps developers document their code. Most developers write programs and when they revisit it they forget what different bits of this program actually does, hence the birth app. 
